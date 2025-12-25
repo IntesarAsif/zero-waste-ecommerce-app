@@ -1,4 +1,4 @@
-package com.example.ecommerce_app
+package com.zerowaste.user
 
 import io.flutter.embedding.android.FlutterActivity
 

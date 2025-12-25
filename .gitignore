@@ -32,6 +32,13 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+.firebaserc
+firebase.json
+.firebase
+changes.tar
+changes.zip
+get_changed_files.sh
+changed_files.zip
 
 # Symbolication related
 app.*.symbols
@@ -43,3 +50,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android/app/.cxx
+
+# FVM Version Cache
+.fvm/
